@@ -1,14 +1,46 @@
-# team4_vinus
+# Team 4 - Vinus
 
-m.suleman.me96@gmail.com  (Muhammad Suleman)
 
-milanbuha003@gmail.com  (Milan Buha)
 
-hiralgondaliya14@gmail.com (Hiralben Gondaliya)
 
-mustafa1997iqbal@gmail.com (Mustafa Iqbal)
+## Members
 
-boghani08@gmail.com (Parth Boghani)
+Muhammad Suleman (m.suleman.me96@gmail.com)
 
-muhammad.mehboob@stud.th-deg.de (Muhammad Azhar Mehboob)
+Milan Buha (milan.buha@gmail.com)
+
+Hiralben Gondaliya (hiralgondaliya14@gmail.com)
+
+Mustafa Iqbal (mustafa1997iqbal@gmail.com)
+
+Muhammad Azhar Mehboob (muhammad.mehboob@stud.th-deg.de)
+
+Parth Boghani (boghani08@gmail.com)
+
+
+## Lab 1:
+
+## To map enviroment in real-world(Classroom) and in virtual map
+
+- Virtual Simulation in Rviz for MAP-HOUSE
+- Simulation of Classroom using Turtlebot3-burger(Realtime)
+
+
+
+## Lab 2:
+
+## To map virtual enviroment(obstacles and walls) using matplotlib
+
+- mapping of stage 1 map
+- Mapping on autorace map
+
+## Lab 3:
+
+## Implementing walls following robot
+
+## Lab 4:
+
+- final project
+
+
 
