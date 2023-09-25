@@ -3,19 +3,9 @@
 
 
 
-## Members
-
-Muhammad Suleman (m.suleman.me96@gmail.com)
+## Member
 
 Milan Buha (milan.buha@gmail.com)
-
-Hiralben Gondaliya (hiralgondaliya14@gmail.com)
-
-Mustafa Iqbal (mustafa1997iqbal@gmail.com)
-
-Muhammad Azhar Mehboob (muhammad.mehboob@stud.th-deg.de)
-
-Parth Boghani (boghani08@gmail.com)
 
 
 ## Lab 1:
